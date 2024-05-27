@@ -9,7 +9,7 @@ The aim is to promote code reusability, reduce redundancy, and improve developme
 Each module is designed to be self-contained and easy to integrate into other projects.
 
 ## Code List
-1. Mouse List
+1. Mouse Lock
 
 
 ## Installation
