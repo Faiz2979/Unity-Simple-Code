@@ -16,7 +16,7 @@ To use the code in this repository, clone it to your local machine and install t
 
 
     git clone https://github.com/Faiz2979/Unity-Simple.git
-    cd Unity-Basic
+    cd UnityCodeVault
     pip install -r requirements.txt
 
 
