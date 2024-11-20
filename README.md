@@ -1,12 +1,10 @@
 
-# Reuseable Unity Code
-
+# Unity Code Library
 
 
 ## Introduction
-This repository contains a collection of reusable code snippets, functions, and classes designed to be used across various projects. 
-The aim is to promote code reusability, reduce redundancy, and improve development efficiency. 
-Each module is designed to be self-contained and easy to integrate into other projects.
+A collection of Unity scripts created to make game development easier.
+This repository aims to make it easier for me during the development process, by reusing these codes in various Unity projects.
 
 ## Code List
 1. Mouse Lock
@@ -18,7 +16,7 @@ To use the code in this repository, clone it to your local machine and install t
 
 
     git clone https://github.com/Faiz2979/Unity-Simple.git
-    cd reusable-code-repo
+    cd Unity-Basic
     pip install -r requirements.txt
 
 
